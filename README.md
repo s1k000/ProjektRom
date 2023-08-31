@@ -5,12 +5,12 @@ Pri projektu sem uporabil program _Mathematica_
 
 # Načrt projekta
 1. Pridobivanje podatkov
-2. Časovna analiza inflacije Evra skozi čas.
+2. Uvod in zgodovina Evra.
 3. Vrednost Evra v primerjavi z drugimi valutami skozi čas.
 4. Uporabniki Evra skozi čas.
-5. Povezavo med inflacijo in novimi uporabniki Evra.
+5. Aplikacijo na oblaku.
 
 # Aplikacija
-Pri projektu sem pripravil aplikacijo v Wolfram Cloud. Dostopna je na spodnjem naslovu:
-
+Aplikacija na oblaku:
+https://www.wolframcloud.com/obj/as89208/url-path
 Pripravil: _Arne Sven Sikošek_
